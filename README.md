@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Predictor
 This Python project predicts fraudulent credit card transactions by using logistic regression.
 
+Data set: Credit Card Fraud Detection (Kaggle)
+
 Description:
 
 This Python program utilizes a range of libraries, including pandas for data preprocessing and numpy for numerical computations, 
